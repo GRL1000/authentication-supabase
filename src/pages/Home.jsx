@@ -1,5 +1,5 @@
 import googlelogo from "../assets/logogoogle.png";
-import { Perfil } from "./Perfil";
+import { Perfil } from "../components/Perfil";
 import { UserAuth } from "../context/AuthContext";
 export function Home() {
 
